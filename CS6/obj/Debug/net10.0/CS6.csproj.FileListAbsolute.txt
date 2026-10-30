@@ -1,0 +1,14 @@
+/Users/gaelmendez/Desktop/CSharp/CS6/bin/Debug/net10.0/CS6
+/Users/gaelmendez/Desktop/CSharp/CS6/bin/Debug/net10.0/CS6.deps.json
+/Users/gaelmendez/Desktop/CSharp/CS6/bin/Debug/net10.0/CS6.runtimeconfig.json
+/Users/gaelmendez/Desktop/CSharp/CS6/bin/Debug/net10.0/CS6.dll
+/Users/gaelmendez/Desktop/CSharp/CS6/bin/Debug/net10.0/CS6.pdb
+/Users/gaelmendez/Desktop/CSharp/CS6/obj/Debug/net10.0/CS6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gaelmendez/Desktop/CSharp/CS6/obj/Debug/net10.0/CS6.AssemblyInfoInputs.cache
+/Users/gaelmendez/Desktop/CSharp/CS6/obj/Debug/net10.0/CS6.AssemblyInfo.cs
+/Users/gaelmendez/Desktop/CSharp/CS6/obj/Debug/net10.0/CS6.csproj.CoreCompileInputs.cache
+/Users/gaelmendez/Desktop/CSharp/CS6/obj/Debug/net10.0/CS6.dll
+/Users/gaelmendez/Desktop/CSharp/CS6/obj/Debug/net10.0/refint/CS6.dll
+/Users/gaelmendez/Desktop/CSharp/CS6/obj/Debug/net10.0/CS6.pdb
+/Users/gaelmendez/Desktop/CSharp/CS6/obj/Debug/net10.0/CS6.genruntimeconfig.cache
+/Users/gaelmendez/Desktop/CSharp/CS6/obj/Debug/net10.0/ref/CS6.dll

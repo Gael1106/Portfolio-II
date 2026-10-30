@@ -1,0 +1,14 @@
+/Users/gaelmendez/Desktop/CSharp/Maraton/bin/Debug/net10.0/Maraton
+/Users/gaelmendez/Desktop/CSharp/Maraton/bin/Debug/net10.0/Maraton.deps.json
+/Users/gaelmendez/Desktop/CSharp/Maraton/bin/Debug/net10.0/Maraton.runtimeconfig.json
+/Users/gaelmendez/Desktop/CSharp/Maraton/bin/Debug/net10.0/Maraton.dll
+/Users/gaelmendez/Desktop/CSharp/Maraton/bin/Debug/net10.0/Maraton.pdb
+/Users/gaelmendez/Desktop/CSharp/Maraton/obj/Debug/net10.0/Maraton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gaelmendez/Desktop/CSharp/Maraton/obj/Debug/net10.0/Maraton.AssemblyInfoInputs.cache
+/Users/gaelmendez/Desktop/CSharp/Maraton/obj/Debug/net10.0/Maraton.AssemblyInfo.cs
+/Users/gaelmendez/Desktop/CSharp/Maraton/obj/Debug/net10.0/Maraton.csproj.CoreCompileInputs.cache
+/Users/gaelmendez/Desktop/CSharp/Maraton/obj/Debug/net10.0/Maraton.dll
+/Users/gaelmendez/Desktop/CSharp/Maraton/obj/Debug/net10.0/refint/Maraton.dll
+/Users/gaelmendez/Desktop/CSharp/Maraton/obj/Debug/net10.0/Maraton.pdb
+/Users/gaelmendez/Desktop/CSharp/Maraton/obj/Debug/net10.0/Maraton.genruntimeconfig.cache
+/Users/gaelmendez/Desktop/CSharp/Maraton/obj/Debug/net10.0/ref/Maraton.dll
